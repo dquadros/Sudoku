@@ -1,0 +1,5 @@
+C:\Particular\git\Sudoku\SudokuBF\bin\Release\SudokuBF.exe
+C:\Particular\git\Sudoku\SudokuBF\bin\Release\SudokuBF.pdb
+C:\Particular\git\Sudoku\SudokuBF\obj\Release\ResolveAssemblyReference.cache
+C:\Particular\git\Sudoku\SudokuBF\obj\Release\SudokuBF.exe
+C:\Particular\git\Sudoku\SudokuBF\obj\Release\SudokuBF.pdb

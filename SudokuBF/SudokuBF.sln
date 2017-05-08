@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuBF", "SudokuBF.csproj", "{32147284-607A-4E2E-8629-7D5EAD5D425D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32147284-607A-4E2E-8629-7D5EAD5D425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32147284-607A-4E2E-8629-7D5EAD5D425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32147284-607A-4E2E-8629-7D5EAD5D425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32147284-607A-4E2E-8629-7D5EAD5D425D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
